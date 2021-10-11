@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "title" : "Quero Ser Deva",
+        "time " : 1.9,
+        "actors" : ["Eu", "Eu Mesma"],
+        "year" : 2021,
+        "inPoster" : true
+    },
+    {
+        "id" : 2,
+        "title" : "Uma Deva no Pedaço",
+        "time" : 2.0,
+        "actors" : ["EuZinha", "Thai"],
+        "year" : 2020,
+        "inPoster" : false
+    }
+]
